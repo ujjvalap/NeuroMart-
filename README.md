@@ -1,12 +1,31 @@
-# React + Vite
+Updated Coming Soon Section (with better design):--
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📸 Screenshots
 
-Currently, two official plugins are available:
+<div align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🚧✨ COMING SOON! ✨🚧
 
-## Expanding the ESLint configuration
+![Coming Soon](https://img.shields.io/badge/UI-Sneak_Peek-ff9800?style=for-the-badge&logo=eye)
+![Neuromart](https://img.shields.io/badge/Neuromart-AI_E-commerce-blueviolet?style=for-the-badge&logo=react)
+![Launch Soon](https://img.shields.io/badge/Launching-July_2025-red?style=for-the-badge&logo=rocket)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🏠 Home Page &nbsp; | &nbsp; 🛍️ Product View &nbsp; | &nbsp; 🎙️ Voice Search UI &nbsp; | &nbsp; 📊 AI Dashboard
+
+> 📷 Screenshots and interactive demo will be added very soon. Stay tuned!
+
+</div>
+
+---
+💡 How This Looks on GitHub
+✅ Output Preview:
+📸 Screenshots
+<div align="center">
+🚧✨ COMING SOON! ✨🚧
+
+
+
+🏠 Home Page   |   🛍️ Product View   |   🎙️ Voice Search UI   |   📊 AI Dashboard
+📷 Screenshots and interactive demo will be added very soon. Stay tuned!
+
+</div>
